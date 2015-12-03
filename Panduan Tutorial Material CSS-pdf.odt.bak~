@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="196" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.0" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="217" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.0" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Thu Dec  3 21:32:17 2015
+<m key="abiword.date_last_changed">Thu Dec  3 22:28:34 2015
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.creator">root </m>
@@ -23,8 +23,8 @@
 <t  s="manifest.rdf"  p="http://docs.oasis-open.org/ns/office/1.2/meta/pkg#hasPart"  objecttype="1"  xsdtype=""  >content.xml</t>
 <t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
 </rdf>
-<history version="8" edit-time="6899" last-saved="1449153137" uid="9c93e6c0-99bb-11e5-869a-f95ec8a01664">
-<version id="8" started="1449151129" uid="a78009e2-99ca-11e5-869a-f95ec8a01664" auto="0" top-xid="158"/>
+<history version="12" edit-time="1500" last-saved="1449156514" uid="6c8e6ec8-99cf-11e5-9ce8-9b5c309f6c96">
+<version id="12" started="1449155195" uid="844a38a0-99d2-11e5-9ce8-9b5c309f6c96" auto="0" top-xid="6"/>
 </history>
 <styles>
 <s type="P" name="Normal" props="default-tab-interval:0.2835in"/>
@@ -54,154 +54,195 @@
 <l id="1005" parentid="0" type="6" start-value="1" list-delim="%L" list-decimal="."/>
 </lists>
 <pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
-<section xid="16" props="page-margin-right:1.2500in; page-width:210.000000mm; page-margin-left:0.7874in; page-orientation:portrait; page-margin-bottom:0.7874in; page-margin-top:0.7874in; page-height:297.000000mm">
-<p style="Normal" xid="17"><c></c></p>
-<p style="Normal" xid="18"><c></c></p>
-<p style="Normal" xid="19" props="text-align:center; font-size:16pt; font-family:Liberation Sans; font-weight:bold">Pembuatan Template Website sederhana dengan desain framework css materialize</p>
-<p style="Normal" xid="20"><c></c></p>
-<p style="Normal" xid="21"><c></c></p>
-<p style="Normal" xid="22"><c></c></p>
-<p style="Normal" xid="23">1. Pengenalan Framework Materialize CSS</p>
-<p style="Normal" xid="24" props="text-indent:0in; margin-left:0.1866in; margin-right:0in">1. 1 Pengenalan</p>
-<p style="Normal" xid="25" props="text-align:justify; text-indent:0in; margin-left:0.5in; margin-right:0in">		Material Desain adalah trend desain yang sedang in atau update sekitar pertengahan tahun 2015. Beberapa kreatif aplikasi pendatang baru seperti telegram, BBM yang mulai menggunakan konsep UI material dengan alasan desain ini terlihat luwes dengan konsep flatnya.  Material desain adalah desain dengan peningkatan layout berbasis grid, animasi dan transisi responsif, padding dan efek kedalaman seperti pencahayaan dan bayangan. Desainer  Matias Duarte menjelaskan bahwa “ tidak seperti kertas nyata, desain material kami dapat memperluas dan melakukan reformasi yang cerdas. Material memiliki permukaan fisik dan tepi. Jahitan dan bayangan memberikan makna tentang apa yang anda sentuh. Google menyatakan bahwa bahasa desain ini mereka rancang berdasarkan pada tinta dan kertas”.</p>
-<p style="Normal" xid="26" props="font-family:Liberation Serif; margin-left:0.5in; font-size:12pt; text-indent:0in; font-weight:normal; color:#000000; text-align:justify; margin-right:0in">		<c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; color:#000000">Materialize CSS adalah salah satu tool framework dengan bahasa desain CSS (Cascading style sheet) yang dirancang secara instan untuk memudahkan developer aplikasi. Karena berfokus pada kemudahan developing software maka Materialize CSS memiliki 3 prinsip :</c></p>
-<p level="1" listid="1000" parentid="0" xid="27" props="font-weight:normal; font-family:Liberation Serif; margin-top:0.0000in; list-style:Bullet List; margin-left:2.063750cm; dom-dir:ltr; text-indent:-0.760222cm; text-align:justify; lang:en-US; margin-right:0.0000in; margin-bottom:0.0000in; line-height:1.000000; font-size:12pt; field-font:NULL"><field type="list_label" xid="28"></field>	<c props="lang:en-US; font-size:12pt; font-family:Liberation Serif; font-weight:normal">Kecepatan dalam developing : Materialize memberikan kemudahan kepada user untuk menggunakan desain stylies yang praktis dan umum digunakan. User dapat dengan leluasa menggabungkan komponen-komponen yang ada di materialize secara custom. Materialize juga menyediakan animasi dan transisi yang lebih halus untuk menarik pengalaman user.</c></p>
-<p level="1" listid="1000" parentid="0" xid="29" props="font-weight:normal; font-family:Liberation Serif; margin-top:0.0000in; list-style:Bullet List; margin-left:2.063750cm; dom-dir:ltr; text-indent:-0.760222cm; text-align:justify; lang:en-US; margin-right:0.0000in; margin-bottom:0.0000in; line-height:1.000000; font-size:12pt; field-font:NULL"><field type="list_label" xid="30"></field>	<c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; text-transform:none; color:#000000">Fokus Pengalaman User : Sesuai poin satu, user diberi leluasa untuk menggabungkan komponen-komponen yang ada dalam materialize untuk memberikan banyak feedback kepada user. selain itu materialize memiliki khas desain yang dapat menyesuaikan terhadap berbagai device dan platform aplikasi sehingga terlihat kompak.</c></p>
-<p level="1" listid="1000" parentid="0" xid="31" props="font-weight:normal; font-family:Liberation Serif; margin-top:0.0000in; list-style:Bullet List; margin-left:2.063750cm; dom-dir:ltr; text-indent:-0.760222cm; text-align:justify; lang:en-US; margin-right:0.0000in; margin-bottom:0.0000in; line-height:1.000000; font-size:12pt; field-font:NULL"><field type="list_label" xid="32"></field>	<c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; text-transform:none; color:#000000">Mudah digunakan : Materialize dirancang untuk mudah digunakan, terlebih bagi mereka yang awam dalam bahasa desain css. Materialize memberikan dokumentasi secara detail dengan contoh kode untuk dapat diterapkan oleh user. Materialize juga tebuka untuk menerima masukan melalui website resmi mereka. </c><c props="lang:en-US; font-size:12pt; font-family:Liberation Serif; font-weight:normal"> </c> </p>
-<p xid="33" props="font-weight:normal; font-family:Liberation Serif; margin-top:0.0000in; margin-left:0.5in; dom-dir:ltr; text-indent:0in; text-align:justify; lang:en-US; margin-right:0.0000in; margin-bottom:0.0000in; line-height:1.000000; font-size:12pt"><c></c></p>
-<p style="Normal" xid="34" props="text-indent:0in; margin-left:0.1866in; margin-right:0in">1. 2 Contoh Website yang Menggunakan Material CSS</p>
-<p style="Normal" xid="35" props="text-align:justify; text-indent:0in; margin-left:0.5000in; margin-right:0in">		Sebelum masuk ke tutorial materialize hendaknya kita melihat seperti apa saja website yang menggunakan framework materialize. </p>
-<p level="1" listid="1006" parentid="0" xid="36" props="margin-left:2.063750cm; text-indent:-0.762000cm; dom-dir:ltr; list-style:Bullet List; text-align:justify; margin-right:0in; field-font:NULL"><field type="list_label" xid="37"></field>	lifeaweso.me</p>
-<p style="Normal" xid="38" props="text-align:justify; dom-dir:ltr; margin-left:0.8125in; margin-right:0in">merupakan startup yang bergerak di bidang board system untuk menangani kegiatan user. web dengan warna khas biru laut ini menggunakan style desain materialize dengan framework materialize. kita akan mengenal teknologi form dengan desain khas yang digunakan materialize, sistem parallax, dan desain yang mengemas foto melalui card </p>
-<p style="Normal" xid="39"><c></c></p>
-<p style="Normal" xid="40" props="text-align:left; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="41"><c></c></p>
-<p style="Normal" xid="42" props="text-align:center; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><image dataid="0" xid="43" props="height:2.8396in; width:4.7083in"/></p>
-<p style="Normal" xid="44" props="text-align:left; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="45" props="text-align:left; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
-<p level="1" listid="1007" parentid="0" xid="46" props="margin-left:2.063750cm; text-indent:-0.762000cm; dom-dir:ltr; list-style:Bullet List; text-align:left; margin-right:0in; field-font:NULL"><field type="list_label" xid="47"></field>	kenyaapps.net</p>
-<p style="Normal" xid="48" props="text-align:justify; dom-dir:ltr; margin-left:0.8125in; margin-right:0in">Merupakan startup yang bekerja di bidang cloud, membantu manajemen user dengan migrasikan database, server dan manajemen ke dalam cloud melalui jasa kenyaapps. di dalam website ini kita akan mengenal khas desain button, form, dropdown yang dibuat melalui framework materialize.</p>
-<p style="Normal" xid="49" props="text-align:justify; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
+<section xid="26" props="page-margin-right:1.2500in; page-width:210.000000mm; page-margin-left:0.7874in; page-orientation:portrait; page-margin-bottom:0.7874in; page-margin-top:0.7874in; page-height:297.000000mm">
+<p xid="27"></p>
+<p style="Normal" xid="28" props="text-align:center; font-size:16pt; font-family:Liberation Sans; font-weight:bold">Pembuatan Template Website sederhana dengan desain framework css materialize</p>
+<p style="Normal" xid="29"><c></c></p>
+<p style="Normal" xid="30"><c></c></p>
+<p style="Normal" xid="31"><c></c></p>
+<p style="Normal" xid="32">1. Pengenalan Framework Materialize CSS</p>
+<p style="Normal" xid="33" props="text-indent:0in; margin-left:0.1866in; margin-right:0in">1. 1 Pengenalan</p>
+<p style="Normal" xid="34" props="text-align:justify; text-indent:0in; margin-left:0.5in; margin-right:0in">		Material Desain adalah trend desain yang sedang in atau update sekitar pertengahan tahun 2015. Beberapa kreatif aplikasi pendatang baru seperti telegram, BBM yang mulai menggunakan konsep UI material dengan alasan desain ini terlihat luwes dengan konsep flatnya.  Material desain adalah desain dengan peningkatan layout berbasis grid, animasi dan transisi responsif, padding dan efek kedalaman seperti pencahayaan dan bayangan. Desainer  Matias Duarte menjelaskan bahwa “ tidak seperti kertas nyata, desain material kami dapat memperluas dan melakukan reformasi yang cerdas. Material memiliki permukaan fisik dan tepi. Jahitan dan bayangan memberikan makna tentang apa yang anda sentuh. Google menyatakan bahwa bahasa desain ini mereka rancang berdasarkan pada tinta dan kertas”.</p>
+<p style="Normal" xid="35" props="font-family:Liberation Serif; margin-left:0.5in; font-size:12pt; text-indent:0in; font-weight:normal; color:#000000; text-align:justify; margin-right:0in">		<c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; color:#000000">Materialize CSS adalah salah satu tool framework dengan bahasa desain CSS (Cascading style sheet) yang dirancang secara instan untuk memudahkan developer aplikasi. Karena berfokus pada kemudahan developing software maka Materialize CSS memiliki 3 prinsip :</c></p>
+<p level="1" listid="1000" parentid="0" xid="36" props="font-weight:normal; font-family:Liberation Serif; margin-top:0.0000in; list-style:Bullet List; margin-left:2.063750cm; dom-dir:ltr; text-indent:-0.760222cm; text-align:justify; lang:en-US; margin-right:0.0000in; margin-bottom:0.0000in; line-height:1.000000; font-size:12pt; field-font:NULL"><field type="list_label" xid="37"></field>	<c props="lang:en-US; font-size:12pt; font-family:Liberation Serif; font-weight:normal">Kecepatan dalam developing : Materialize memberikan kemudahan kepada user untuk menggunakan desain stylies yang praktis dan umum digunakan. User dapat dengan leluasa menggabungkan komponen-komponen yang ada di materialize secara custom. Materialize juga menyediakan animasi dan transisi yang lebih halus untuk menarik pengalaman user.</c></p>
+<p level="1" listid="1000" parentid="0" xid="38" props="font-weight:normal; font-family:Liberation Serif; margin-top:0.0000in; list-style:Bullet List; margin-left:2.063750cm; dom-dir:ltr; text-indent:-0.760222cm; text-align:justify; lang:en-US; margin-right:0.0000in; margin-bottom:0.0000in; line-height:1.000000; font-size:12pt; field-font:NULL"><field type="list_label" xid="39"></field>	<c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; text-transform:none; color:#000000">Fokus Pengalaman User : Sesuai poin satu, user diberi leluasa untuk menggabungkan komponen-komponen yang ada dalam materialize untuk memberikan banyak feedback kepada user. selain itu materialize memiliki khas desain yang dapat menyesuaikan terhadap berbagai device dan platform aplikasi sehingga terlihat kompak.</c></p>
+<p level="1" listid="1000" parentid="0" xid="40" props="font-weight:normal; font-family:Liberation Serif; margin-top:0.0000in; list-style:Bullet List; margin-left:2.063750cm; dom-dir:ltr; text-indent:-0.760222cm; text-align:justify; lang:en-US; margin-right:0.0000in; margin-bottom:0.0000in; line-height:1.000000; font-size:12pt; field-font:NULL"><field type="list_label" xid="41"></field>	<c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; text-transform:none; color:#000000">Mudah digunakan : Materialize dirancang untuk mudah digunakan, terlebih bagi mereka yang awam dalam bahasa desain css. Materialize memberikan dokumentasi secara detail dengan contoh kode untuk dapat diterapkan oleh user. Materialize juga tebuka untuk menerima masukan melalui website resmi mereka. </c><c props="lang:en-US; font-size:12pt; font-family:Liberation Serif; font-weight:normal"> </c> </p>
+<p xid="42" props="font-weight:normal; font-family:Liberation Serif; margin-top:0.0000in; margin-left:0.5in; dom-dir:ltr; text-indent:0in; text-align:justify; lang:en-US; margin-right:0.0000in; margin-bottom:0.0000in; line-height:1.000000; font-size:12pt"><c></c></p>
+<p style="Normal" xid="43" props="text-indent:0in; margin-left:0.1866in; margin-right:0in">1. 2 Contoh Website yang Menggunakan Material CSS</p>
+<p style="Normal" xid="44" props="text-align:justify; text-indent:0in; margin-left:0.5000in; margin-right:0in">		Sebelum masuk ke tutorial materialize hendaknya kita melihat seperti apa saja website yang menggunakan framework materialize. </p>
+<p level="1" listid="1006" parentid="0" xid="45" props="margin-left:2.063750cm; text-indent:-0.762000cm; dom-dir:ltr; list-style:Bullet List; text-align:justify; margin-right:0in; field-font:NULL"><field type="list_label" xid="46"></field>	lifeaweso.me</p>
+<p style="Normal" xid="47" props="text-align:justify; dom-dir:ltr; margin-left:0.8125in; margin-right:0in">merupakan startup yang bergerak di bidang board system untuk menangani kegiatan user. web dengan warna khas biru laut ini menggunakan style desain materialize dengan framework materialize. kita akan mengenal teknologi form dengan desain khas yang digunakan materialize, sistem parallax, dan desain yang mengemas foto melalui card </p>
+<p style="Normal" xid="48"><c></c></p>
+<p style="Normal" xid="49" props="text-align:left; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
 <p style="Normal" xid="50"><c></c></p>
-<p style="Normal" xid="51"><c></c></p>
-<p style="Normal" xid="52" props="text-align:left; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="53" props="text-align:center; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><image dataid="1" xid="54" props="height:2.5250in; width:4.8694in"/></p>
-<p style="Normal" xid="55" props="text-align:left; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="56" props="text-align:left; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="57" props="text-align:left; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="58" props="text-align:left; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
-<p level="1" listid="1008" parentid="0" xid="59" props="margin-left:2.063750cm; text-indent:-0.762000cm; dom-dir:ltr; list-style:Bullet List; text-align:left; margin-right:0in; field-font:NULL"><field type="list_label" xid="60"></field>	www.android-kiosk.com</p>
-<p style="Normal" xid="61" props="text-align:justify; dom-dir:ltr; margin-left:0.8125in; margin-right:0in">Website ini menyediakan beberapa servis pada bidang operating sistem android, web ini fokus dengan warna hijau layaknya warna khas android, di dalamnya kita akan bisa melihat beberapa icon-icon gambar yang khas materialize, yang nantinya saat kita memulai belajar materialize kita hanya cukup memanggil tanpa susah harus membuat dari 0. di dalam website ini kita juga bisa melihat khas desain menu materialize, form dan lain-lain. </p>
-<p style="Normal" xid="62" props="text-align:justify; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="63"><c></c></p>
-<p style="Normal" xid="64" props="text-align:justify; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="65" props="text-align:center; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><image dataid="2" xid="66" props="height:2.8250in; width:5.4167in"/></p>
-<p style="Normal" xid="67" props="text-align:justify; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="68" props="text-align:justify; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
-<p level="1" listid="1009" parentid="0" xid="69" props="margin-left:2.063750cm; text-indent:-0.762000cm; dom-dir:ltr; list-style:Bullet List; text-align:left; margin-right:0in; field-font:NULL"><field type="list_label" xid="70"></field>	www.internationalschoolofeurope.it</p>
-<p style="Normal" xid="71" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.8125in; margin-right:0in">merupakan website sekolah internasional eropa, juga menggunakan framework materialize dalam pembuatannya. di dalam webiste ini kita juga akan mengenal teknologi parallax, button fixed / tombol yang khas materialize yang menempel di sebelah kanan bawah.</p>
-<p style="Normal" xid="72" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="73" props="text-align:left; margin-left:0.8125in"><image dataid="3" xid="74" props="height:2.64in; width:5.27in"/></p>
-<p style="Normal" xid="75" props="text-align:center"><c></c></p>
-<p style="Normal" xid="76" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="77" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="78" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="79" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.8125in; margin-right:0in">dengan adanya contoh website di atas, semoga bisa menginspirasi para desainer website untuk memulai belajar materializecss.</p>
-<p style="Normal" xid="80" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="81" props="text-indent:0in; margin-left:0.1866in; margin-right:0in">1. 3 Install Webserver</p>
-<p style="Normal" xid="82" props="text-indent:0in; margin-left:0.5000in; margin-right:0in">      Dalam tutorial kali ini kita menggunakan OS linux, bahasa program html dan php serta bahasa desain materialize. Karena php merupakan bahasa program server side maka kita memerlukan webserver dan bahasa server php sendiri. Berikut akan dijelaskan bagaimana cara menginstall webserver dan bahasa php dalam linux. </p>
-<p style="Normal" xid="83" props="text-indent:0in; margin-left:0.5000in; margin-right:0in">1.3.1 Apache</p>
-<p style="Normal" xid="196" props="text-indent:0in; margin-left:0.8750in; margin-right:0in">	Salah satu paket webserver dalam dunia software adalah apache. webserver ini kita gunakan untuk mengontrol tampilan web aplikasi kita agar dapat dibuka dalam browser dan mengaktifkan beberapa fungsi bahasa server side.</p>
-<p style="Normal" xid="85" props="text-indent:0in; margin-left:0.8750in; margin-right:0in">Berikut cara penginstallan apache dalam linux.</p>
-<p style="Normal" xid="86" props="text-indent:0in; margin-left:0.8750in; margin-right:0in">buka terminal dalam linux lalu ketikan ﻿</p>
-<p style="Plain Text" xid="6" props="text-indent:0in; margin-left:0.8750in; margin-right:0in"><c></c></p>
-<table xid="11" props="table-column-props:3.5000in/; table-row-heights:0.3125in/; table-column-leftpos:0.8750in">
-<cell xid="12" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
-<p style="Normal" xid="13" props="font-size:12pt; font-family:Courier New; margin-right:0.5000in"><c props="font-family:FreeMono; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">sudo apt-get install apache2</c></p>
+<p style="Normal" xid="51" props="text-align:center; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><image dataid="0" xid="52" props="height:2.8396in; width:4.7083in"/></p>
+<p style="Normal" xid="53" props="text-align:left; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="54" props="text-align:left; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
+<p level="1" listid="1007" parentid="0" xid="55" props="margin-left:2.063750cm; text-indent:-0.762000cm; dom-dir:ltr; list-style:Bullet List; text-align:left; margin-right:0in; field-font:NULL"><field type="list_label" xid="56"></field>	kenyaapps.net</p>
+<p style="Normal" xid="57" props="text-align:justify; dom-dir:ltr; margin-left:0.8125in; margin-right:0in">Merupakan startup yang bekerja di bidang cloud, membantu manajemen user dengan migrasikan database, server dan manajemen ke dalam cloud melalui jasa kenyaapps. di dalam website ini kita akan mengenal khas desain button, form, dropdown yang dibuat melalui framework materialize.</p>
+<p style="Normal" xid="58" props="text-align:justify; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="59"><c></c></p>
+<p style="Normal" xid="60"><c></c></p>
+<p style="Normal" xid="61" props="text-align:left; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="62" props="text-align:center; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><image dataid="1" xid="63" props="height:2.5250in; width:4.8694in"/></p>
+<p style="Normal" xid="64" props="text-align:left; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="65" props="text-align:left; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="66" props="text-align:left; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="67" props="text-align:left; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
+<p level="1" listid="1008" parentid="0" xid="68" props="margin-left:2.063750cm; text-indent:-0.762000cm; dom-dir:ltr; list-style:Bullet List; text-align:left; margin-right:0in; field-font:NULL"><field type="list_label" xid="69"></field>	www.android-kiosk.com</p>
+<p style="Normal" xid="70" props="text-align:justify; dom-dir:ltr; margin-left:0.8125in; margin-right:0in">Website ini menyediakan beberapa servis pada bidang operating sistem android, web ini fokus dengan warna hijau layaknya warna khas android, di dalamnya kita akan bisa melihat beberapa icon-icon gambar yang khas materialize, yang nantinya saat kita memulai belajar materialize kita hanya cukup memanggil tanpa susah harus membuat dari 0. di dalam website ini kita juga bisa melihat khas desain menu materialize, form dan lain-lain. </p>
+<p style="Normal" xid="71" props="text-align:justify; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="72"><c></c></p>
+<p style="Normal" xid="73" props="text-align:justify; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="74" props="text-align:center; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><image dataid="2" xid="75" props="height:2.8250in; width:5.4167in"/></p>
+<p style="Normal" xid="76" props="text-align:justify; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="77" props="text-align:justify; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
+<p level="1" listid="1009" parentid="0" xid="78" props="margin-left:2.063750cm; text-indent:-0.762000cm; dom-dir:ltr; list-style:Bullet List; text-align:left; margin-right:0in; field-font:NULL"><field type="list_label" xid="79"></field>	www.internationalschoolofeurope.it</p>
+<p style="Normal" xid="80" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.8125in; margin-right:0in">merupakan website sekolah internasional eropa, juga menggunakan framework materialize dalam pembuatannya. di dalam webiste ini kita juga akan mengenal teknologi parallax, button fixed / tombol yang khas materialize yang menempel di sebelah kanan bawah.</p>
+<p style="Normal" xid="81" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="82" props="text-align:left; margin-left:0.8125in"><image dataid="3" xid="83" props="height:2.64in; width:5.27in"/></p>
+<p style="Normal" xid="84" props="text-align:center"><c></c></p>
+<p style="Normal" xid="85" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="86" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="87" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="88" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.8125in; margin-right:0in">dengan adanya contoh website di atas, semoga bisa menginspirasi para desainer website untuk memulai belajar materializecss.</p>
+<p style="Normal" xid="89" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.8125in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="90" props="text-indent:0in; margin-left:0.1866in; margin-right:0in">1. 3 Install Webserver</p>
+<p style="Normal" xid="91" props="text-indent:0in; margin-left:0.5000in; margin-right:0in">    Dalam tutorial kali ini kita menggunakan OS linux, bahasa program html dan php serta bahasa desain materialize. Karena php merupakan bahasa program server side maka kita memerlukan webserver dan bahasa server php sendiri. Berikut akan dijelaskan bagaimana cara menginstall webserver dan bahasa php dalam linux. </p>
+<p style="Normal" xid="92" props="text-indent:0in; margin-left:0.5000in; margin-right:0in">1.3.1 Apache</p>
+<p style="Normal" xid="93" props="text-indent:0in; margin-left:0.8750in; margin-right:0in">	Salah satu paket webserver dalam dunia software adalah apache. webserver ini kita gunakan untuk mengontrol tampilan web aplikasi kita agar dapat dibuka dalam browser dan mengaktifkan beberapa fungsi bahasa server side.</p>
+<p style="Normal" xid="94" props="text-indent:0in; margin-left:0.8750in; margin-right:0in">Berikut cara penginstallan apache dalam linux.</p>
+<p style="Normal" xid="95" props="text-indent:0in; margin-left:0.8750in; margin-right:0in">buka terminal dalam linux lalu ketikan ﻿</p>
+<p style="Plain Text" xid="96" props="text-indent:0in; margin-left:0.8750in; margin-right:0in"><c></c></p>
+<table xid="97" props="table-column-leftpos:0.8750in; table-row-heights:/; table-width:0.000000">
+<cell xid="98" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p style="Normal" xid="99" props="font-size:12pt; font-family:Courier New; margin-right:0.5000in"><c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:FreeMono; color:#000000">sudo apt-get install apache2</c></p>
 </cell>
 </table>
-<p style="Plain Text" xid="10" props="text-indent:0in; margin-left:0.8750in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="158" props="text-indent:0in; margin-left:0.8750in; margin-right:0in"><c props="font-family:Liberation Serif">maka apache sudah terinstall dalam linux.</c></p>
-<p style="Plain Text" xid="160" props="text-indent:0in; margin-left:0.8750in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="7" props="text-indent:0in; margin-left:0.5000in; margin-right:0in">1.3.2 Php</p>
-<p style="Normal" xid="163" props="text-indent:0in; margin-left:0.8750in; margin-right:0in">	Setelah siap dengan webserver apache, selanjutnya kita akan menginstall bahasa program php. php adalah bahasa program server side yang oleh karena itu harus ditempatkan di dalam folder webserver.</p>
-<p style="Normal" xid="164" props="text-indent:0in; margin-left:0.8750in; margin-right:0in">Berikut cara penginstallan bahasa program php. ketikan dalam terminal kode di bawah</p>
-<p style="Normal" xid="165" props="text-indent:0in; margin-left:0.8750in; margin-right:0in"><c></c></p>
-<table xid="167" props="table-column-leftpos:0.8750in; table-column-props:4.9375in/">
-<cell xid="168" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
-<p style="Normal" xid="169" props="text-indent:0.0000in; font-size:12pt; font-family:Liberation Serif; margin-right:0.8125in; margin-left:0.0000in"><c props="font-family:FreeMono">sudo apt-get install php5 libapache2-mod-php5 php5-mcrypt</c></p>
-<p style="Normal" xid="175" props="text-indent:0.0000in; font-size:12pt; font-family:Liberation Serif; margin-right:0.8125in; margin-left:0.0000in"><c></c></p>
+<p style="Plain Text" xid="100" props="text-indent:0in; margin-left:0.8750in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="101" props="text-indent:0in; margin-left:0.8750in; margin-right:0in"><c props="font-family:Liberation Serif">maka apache sudah terinstall dalam linux.</c></p>
+<p style="Plain Text" xid="102" props="text-indent:0in; margin-left:0.8750in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="103" props="text-indent:0in; margin-left:0.5000in; margin-right:0in">1.3.2 Php</p>
+<p style="Normal" xid="104" props="text-indent:0in; margin-left:0.8750in; margin-right:0in">	Setelah siap dengan webserver apache, selanjutnya kita akan menginstall bahasa program php. php adalah bahasa program server side yang oleh karena itu harus ditempatkan di dalam folder webserver.</p>
+<p style="Normal" xid="105" props="text-indent:0in; margin-left:0.8750in; margin-right:0in">Berikut cara penginstallan bahasa program php. ketikan dalam terminal kode di bawah</p>
+<p style="Normal" xid="106" props="text-indent:0in; margin-left:0.8750in; margin-right:0in"><c></c></p>
+<table xid="107" props="table-column-leftpos:0.8750in; table-row-heights:/; table-width:0.000000">
+<cell xid="108" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p style="Normal" xid="109" props="text-indent:0.0000in; font-size:12pt; font-family:Liberation Serif; margin-left:0.0000in; margin-right:0.8125in"><c props="font-family:FreeMono">sudo apt-get install php5 libapache2-mod-php5 php5-mcrypt</c></p>
+<p style="Normal" xid="110" props="text-indent:0.0000in; font-size:12pt; font-family:Liberation Serif; margin-left:0.0000in; margin-right:0.8125in"><c></c></p>
 </cell>
 </table>
-<p style="Normal" xid="161" props="text-indent:0in; margin-left:0.8750in; margin-right:0in"><c></c> </p>
-<p style="Normal" xid="176" props="text-indent:0in; margin-left:0.5000in; margin-right:0in">		Setelah kita siap dengan apache dan php, selanjutnya kita harus mengubah permission folder webserver (var/www). karena secara default folder ini memiliki permission administrator. ketikan perintah berikut ke dalam terminal</p>
-<p style="Normal" xid="181" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c></c></p>
-<table xid="182" props="table-column-props:5.3750in/; table-row-heights:0.4375in/; table-column-leftpos:0.5000in">
-<cell xid="183" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
-<p style="Normal" xid="184" props="font-family:Liberation Serif; font-size:12pt"><c props="font-family:FreeMono">sudo chmod 775 /var/www</c></p>
-<p style="Normal" xid="191" props="font-family:Liberation Serif; font-size:12pt"><c></c></p>
+<p style="Normal" xid="111" props="text-indent:0in; margin-left:0.8750in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="112" props="text-indent:0in; margin-left:0.5000in; margin-right:0in">		Setelah kita siap dengan apache dan php, selanjutnya kita harus mengubah permission folder webserver (var/www). karena secara default folder ini memiliki permission administrator. ketikan perintah berikut ke dalam terminal</p>
+<p style="Normal" xid="113" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c></c></p>
+<table xid="114" props="table-column-leftpos:0.5000in; table-row-heights:/; table-width:0.000000">
+<cell xid="115" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p style="Normal" xid="116" props="font-family:Liberation Serif; font-size:12pt"><c props="font-family:FreeMono">sudo chmod 775 /var/www</c></p>
+<p style="Normal" xid="117" props="font-family:Liberation Serif; font-size:12pt"><c></c></p>
 </cell>
 </table>
-<p style="Normal" xid="87" props="text-indent:0in; margin-left:0.1866in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="194" props="text-indent:0.0000in; margin-left:0.5000in; margin-right:0in">setelah diubah permissonya maka webserver kita telah siap digunakan.</p>
-<p style="Normal" xid="195" props="text-indent:0.0000in; margin-left:0.5000in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="189" props="text-indent:0in; margin-left:0.1866in; margin-right:0in"><c></c>1. 4 Cara Install Materialize CSS dan Pembuatan HTML Biasa</p>
-<p style="Normal" xid="88" props="text-indent:0in; margin-left:0.5000in; margin-right:0in">		Setelah webservis siap langkah selanjutnya adalah memulai penginstallan framework materialize. Caranya adalah :</p>
-<p level="1" listid="1010" parentid="0" xid="89" props="margin-left:2.063750cm; text-indent:-0.762000cm; dom-dir:ltr; list-style:Dashed List; text-align:left; margin-right:0in; field-font:NULL"><field type="list_label" xid="90"></field>	Buka browser, pastikan komputer anda terhubung oleh koneksi internet. masuk ke situs resmi materializecss yaitu http://materializecss.com/. tampilannya akan seperti berikut (2015)</p>
-<p style="Normal" xid="91" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.5000in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="92" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.5000in; margin-right:0in">		</p>
-<p style="Normal" xid="93"><c></c></p>
-<p style="Normal" xid="94" props="text-align:center; text-indent:0in; dom-dir:ltr; margin-left:0.5000in; margin-right:0in"></p>
-<p level="1" listid="1011" parentid="0" xid="96" props="margin-left:2.063750cm; text-indent:-0.762000cm; dom-dir:ltr; list-style:Dashed List; text-align:left; margin-right:0in; field-font:NULL"><field type="list_label" xid="97"></field>	Masuk ke menu Getting started. Sebenarnya anda sudah bisa mempelajari secara otodidak semua tentang materializecss. Tapi disini saya akan mulai menjelaskan menggunakan bahasa indonesia. </p>
-<p level="1" listid="1012" parentid="0" xid="98" props="margin-left:2.063750cm; text-indent:-0.762000cm; dom-dir:ltr; list-style:Dashed List; text-align:left; margin-right:0in; field-font:NULL"><field type="list_label" xid="99"></field>	Terdapat banyak tipe penginstallan materializecss diantaranya :</p>
-<p level="1" listid="1013" parentid="0" xid="100" props="margin-left:2.857500cm; text-indent:-0.793750cm; dom-dir:ltr; list-style:Bullet List; text-align:left; margin-right:0in; field-font:NULL"><field type="list_label" xid="101"></field>	Download source code </p>
-<p style="Normal" xid="102" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:1.1250in; margin-right:0in">  metode ini adalah metode download secara langsung menggunakan materialize atau Sass. Sass adalah pengembangan dari css. dengan menggunakan sass kita dapat menambahkan variabel ke dalam bahasa desain css sehingga pemanggilan tidak perlu berulang.</p>
-<p style="Normal" xid="103" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.5000in; margin-right:0in"><c></c></p>
-<p level="1" listid="1001" parentid="0" xid="104" props="margin-left:2.857500cm; text-indent:-0.762000cm; dom-dir:ltr; list-style:Bullet List; text-align:left; margin-right:0in; field-font:NULL"><field type="list_label" xid="105"></field>	CDN</p>
-<p style="Normal" xid="106" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:1.1250in; margin-right:0in">		metode CDN adalah dengan menyertakan source materializecss ke dalam web aplikasi kita secara online. dengan menambahkan sintax berikut ke dalam header</p>
-<p style="Normal" xid="107" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:1.1250in; margin-right:0in">﻿</p>
-<p style="Plain Text" xid="108" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:1.1250in; margin-right:0in"><c props="font-family:Courier">&lt;!-- Compiled and minified CSS --&gt;<br/>  &lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css"&gt;<br/><br/>  &lt;!-- Compiled and minified JavaScript --&gt;<br/>  &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"&gt;&lt;/script&gt;</c></p>
-<p style="Normal" xid="109" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:1.1250in; margin-right:0in"><c></c></p>
-<p style="Normal" xid="110" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:1.1250in; margin-right:0in"><c></c></p>
-<p level="1" listid="1002" parentid="0" xid="111" props="margin-top:0.0000in; margin-left:2.857500cm; text-indent:-0.760222cm; dom-dir:ltr; margin-bottom:0.0000in; list-style:Bullet List; line-height:1.000000; text-align:left; margin-right:0.0000in; field-font:NULL"><field type="list_label" xid="112"></field>	<c props="lang:en-US; font-size:12pt; font-family:Liberation Serif; font-weight:normal">NPM (Nodejs Package Manager)</c></p>
-<p style="Normal" xid="113" props="margin-top:0.0000in; margin-left:2.857500cm; text-indent:0.000000cm; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:en-US; font-size:12pt; font-family:Liberation Serif; font-weight:normal">		metode NPM adalah menyertakan materializecss dengan menginstall library javascript ke OS atau project aplikasi</c></p>
-<p style="Normal" xid="114" props="margin-top:0.0000in; margin-left:2.857500cm; text-indent:0.000000cm; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
-<p level="1" listid="1003" parentid="0" xid="115" props="margin-top:0.0000in; margin-left:2.857500cm; text-indent:-0.760222cm; dom-dir:ltr; margin-bottom:0.0000in; list-style:Bullet List; line-height:1.000000; text-align:left; margin-right:0.0000in; field-font:NULL"><field type="list_label" xid="116"></field>	<c props="lang:en-US; font-size:12pt; font-family:Liberation Serif; font-weight:normal">Bower</c></p>
-<p style="Normal" xid="117" props="margin-top:0.0000in; margin-left:1.1250in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:en-US; font-size:12pt; font-family:Liberation Serif; font-weight:normal">		</c><c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; color:#000000">metode Bower mirip dengan NPM sama-sama menginstall ke dalam OS atau projek aplikasi, hanya saja perbedaannya NPM khusus mengatasi javascript library sedangkan Bower cenderung menangani kelengkapan web aplikasi seperti js, css, png.</c></p>
-<p style="Normal" xid="118" props="margin-top:0.0000in; margin-left:1.1250in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
-<p style="Normal" xid="119" props="margin-top:0.0000in; margin-left:0.8125in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; color:#000000">Banyaknya tipe penginstallan yang tesedia dalam materializecss, hanya saja disini skita fokus pada penggunaana source code secara manual dengan menggunakan download secara langsung. ini sangat membantu terutama bagi anda yang baru saja migrasi dari css manual ke framework css. download source codenya melalui web resmi tadi.</c></p>
-<p style="Normal" xid="120" props="margin-top:0.0000in; margin-left:0.8125in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
-<p level="1" listid="1004" parentid="0" xid="121" props="margin-top:0.0000in; margin-left:2.063750cm; text-indent:-0.762000cm; dom-dir:ltr; margin-bottom:0.0000in; list-style:Dashed List; line-height:1.000000; text-align:left; margin-right:0.0000in; field-font:NULL"><field type="list_label" xid="122"></field>	<c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; text-transform:none; color:#000000">Selanjutnya setelah berhasil didownload extract archieve, di dalamnya kita akan temukan 3 file sebagai berikut :</c></p>
-<p xid="178" props="margin-top:0.0000in; margin-left:0.8125in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; text-transform:none; color:#000000"></c></p>
-<p style="Normal" xid="123" props="margin-top:0.0000in; margin-left:0.8125in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c><image dataid="4" title="" alt="" xid="177" props="height:2.02in; width:5.19in"/></p>
-<p style="Normal" xid="131" props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; color:#000000"><c></c></p>
-<p level="1" listid="1005" parentid="0" xid="132" props="font-family:Liberation Serif; margin-left:2.063750cm; font-size:12pt; text-indent:-0.762000cm; lang:en-US; list-style:Dashed List; color:#000000; font-weight:normal; field-font:NULL"><field type="list_label" xid="133"></field>	<c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; text-transform:none; color:#000000">langkah berikutnya kita bisa memulai membuat file .php di dalam folder tersebut</c></p>
-<p style="Normal" xid="134" props="font-family:Liberation Serif; margin-left:0.8125in; font-size:12pt; text-indent:0in; lang:en-US; color:#000000; font-weight:normal"><c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; text-transform:none; color:#000000">jangan lupa include source code materializecss yang telah kita download sebelumnya.</c></p>
-<p style="Normal" xid="135" props="font-family:Liberation Serif; margin-left:0.8125in; font-size:12pt; text-indent:0in; lang:en-US; color:#000000; font-weight:normal"><c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; text-transform:none; color:#000000">hingga sintaknya sebagai beikut</c></p>
-<p style="Normal" xid="136" props="font-family:Liberation Serif; margin-left:0.8125in; font-size:12pt; text-indent:0in; lang:en-US; color:#000000; font-weight:normal"><c></c></p>
-<table xid="137" props="table-column-leftpos:0.8125in; table-row-heights:/; table-width:0.000000">
-<cell xid="138" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
-<p style="Normal" xid="139" props="font-family:Liberation Serif; margin-top:0pt; right-space:0.02in; margin-left:0pt; shading-pattern:1; widows:2; text-indent:0in; text-align:left; orphans:2; dom-dir:ltr; top-space:0.02in; bgcolor:transparent; margin-right:0pt; margin-bottom:0pt; shading-foreground-color:transparent; line-height:1.000000; left-space:0.02in; font-size:12pt">﻿﻿</p>
-<p style="Plain Text" xid="140" props="font-family:Liberation Serif; margin-top:0pt; right-space:0.02in; margin-left:0pt; shading-pattern:1; widows:2; text-indent:0in; text-align:left; orphans:2; dom-dir:ltr; top-space:0.02in; bgcolor:transparent; margin-right:0.1250in; margin-bottom:0pt; shading-foreground-color:transparent; line-height:1.000000; left-space:0.02in; font-size:12pt"><c props="font-family:Courier">&lt;!DOCTYPE html&gt;<br/>  &lt;html&gt;<br/>    &lt;head&gt;<br/>      &lt;!--Import materialize.css--&gt;<br/>      &lt;link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/&gt;<br/><br/>      &lt;!--Let browser know website is optimized for mobile--&gt;<br/>      &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"/&gt;<br/>    &lt;/head&gt;<br/><br/>    &lt;body&gt;<br/>      &lt;!--Import jQuery before materialize.js--&gt;<br/>      &lt;script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"&gt;&lt;/script&gt;<br/>      &lt;script type="text/javascript" src="js/materialize.min.js"&gt;&lt;/script&gt;<br/>    &lt;/body&gt;<br/>  &lt;/html&gt;<br/>        </c></p>
-<p style="Normal" xid="141" props="font-family:Liberation Serif; margin-top:0pt; right-space:0.02in; margin-left:0pt; shading-pattern:1; widows:2; text-indent:0in; text-align:left; orphans:2; dom-dir:ltr; top-space:0.02in; bgcolor:transparent; margin-right:0pt; margin-bottom:0pt; shading-foreground-color:transparent; line-height:1.000000; left-space:0.02in; font-size:12pt"><c></c></p>
-<p style="Normal" xid="142" props="font-family:Liberation Serif; margin-top:0pt; right-space:0.02in; margin-left:0pt; shading-pattern:1; widows:2; text-indent:0in; text-align:left; orphans:2; dom-dir:ltr; top-space:0.02in; bgcolor:transparent; margin-right:0pt; margin-bottom:0pt; shading-foreground-color:transparent; line-height:1.000000; left-space:0.02in; font-size:12pt"><c props="font-family:Courier">    </c></p>
-<p style="Normal" xid="143" props="font-family:Liberation Serif; font-size:12pt"><c></c></p>
-<p style="Normal" xid="144" props="font-family:Liberation Serif; font-size:12pt"><c></c></p>
+<p style="Normal" xid="118" props="text-indent:0in; margin-left:0.1866in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="119" props="text-indent:0.0000in; margin-left:0.5000in; margin-right:0in">setelah diubah permissonya maka webserver kita telah siap digunakan.</p>
+<p style="Normal" xid="120" props="text-indent:0.0000in; margin-left:0.5000in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="121" props="text-indent:0in; margin-left:0.1866in; margin-right:0in">1. 4 Cara Install Materialize CSS dan Pembuatan HTML Biasa</p>
+<p style="Normal" xid="122" props="text-indent:0in; margin-left:0.5000in; margin-right:0in">		Setelah webservis siap langkah selanjutnya adalah memulai penginstallan framework materialize. Caranya adalah :</p>
+<p level="1" listid="1010" parentid="0" xid="123" props="margin-left:2.063750cm; text-indent:-0.762000cm; dom-dir:ltr; list-style:Dashed List; text-align:left; margin-right:0in; field-font:NULL"><field type="list_label" xid="124"></field>	Buka browser, pastikan komputer anda terhubung oleh koneksi internet. masuk ke situs resmi materializecss yaitu http://materializecss.com/. tampilannya akan seperti berikut (2015)</p>
+<p style="Normal" xid="125" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.5000in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="126" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.5000in; margin-right:0in">		<image dataid="4" xid="127" props="height:2.8285in; width:6.2257in"/></p>
+<p style="Normal" xid="128"><c></c></p>
+<p style="Normal" xid="129" props="text-align:center; text-indent:0in; dom-dir:ltr; margin-left:0.5000in; margin-right:0in"><c></c></p>
+<p level="1" listid="1011" parentid="0" xid="130" props="margin-left:2.063750cm; text-indent:-0.762000cm; dom-dir:ltr; list-style:Dashed List; text-align:left; margin-right:0in; field-font:NULL"><field type="list_label" xid="131"></field>	Masuk ke menu Getting started. Sebenarnya anda sudah bisa mempelajari secara otodidak semua tentang materializecss. Tapi disini saya akan mulai menjelaskan menggunakan bahasa indonesia. </p>
+<p level="1" listid="1012" parentid="0" xid="132" props="margin-left:2.063750cm; text-indent:-0.762000cm; dom-dir:ltr; list-style:Dashed List; text-align:left; margin-right:0in; field-font:NULL"><field type="list_label" xid="133"></field>	Terdapat banyak tipe penginstallan materializecss diantaranya :</p>
+<p level="1" listid="1013" parentid="0" xid="134" props="margin-left:2.857500cm; text-indent:-0.793750cm; dom-dir:ltr; list-style:Bullet List; text-align:left; margin-right:0in; field-font:NULL"><field type="list_label" xid="135"></field>	Download source code </p>
+<p style="Normal" xid="136" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:1.1250in; margin-right:0in">metode ini adalah metode download secara langsung menggunakan materialize atau Sass. Sass adalah pengembangan dari css. dengan menggunakan sass kita dapat menambahkan variabel ke dalam bahasa desain css sehingga pemanggilan tidak perlu berulang.</p>
+<p style="Normal" xid="137" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0.5000in; margin-right:0in"><c></c></p>
+<p level="1" listid="1001" parentid="0" xid="138" props="margin-left:2.857500cm; text-indent:-0.762000cm; dom-dir:ltr; list-style:Bullet List; text-align:left; margin-right:0in; field-font:NULL"><field type="list_label" xid="139"></field>	CDN</p>
+<p style="Normal" xid="140" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:1.1250in; margin-right:0in">		metode CDN adalah dengan menyertakan source materializecss ke dalam web aplikasi kita secara online. dengan menambahkan sintax berikut ke dalam header</p>
+<p style="Normal" xid="141" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:1.1250in; margin-right:0in">﻿</p>
+<p style="Plain Text" xid="142" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:1.1250in; margin-right:0in"><c props="font-family:Courier">&lt;!-- Compiled and minified CSS --&gt;<br/>  &lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css"&gt;<br/><br/>  &lt;!-- Compiled and minified JavaScript --&gt;<br/>  &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"&gt;&lt;/script&gt;</c></p>
+<p style="Normal" xid="143" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:1.1250in; margin-right:0in"><c></c></p>
+<p style="Normal" xid="144" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:1.1250in; margin-right:0in"><c></c></p>
+<p level="1" listid="1002" parentid="0" xid="145" props="margin-top:0.0000in; margin-left:2.857500cm; text-indent:-0.760222cm; dom-dir:ltr; margin-bottom:0.0000in; list-style:Bullet List; line-height:1.000000; text-align:left; margin-right:0.0000in; field-font:NULL"><field type="list_label" xid="146"></field>	<c props="lang:en-US; font-size:12pt; font-family:Liberation Serif; font-weight:normal">NPM (Nodejs Package Manager)</c></p>
+<p style="Normal" xid="147" props="margin-top:0.0000in; margin-left:2.857500cm; text-indent:0.000000cm; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:en-US; font-size:12pt; font-family:Liberation Serif; font-weight:normal">		metode NPM adalah menyertakan materializecss dengan menginstall library javascript ke OS atau project aplikasi</c></p>
+<p style="Normal" xid="148" props="margin-top:0.0000in; margin-left:2.857500cm; text-indent:0.000000cm; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+<p level="1" listid="1003" parentid="0" xid="149" props="margin-top:0.0000in; margin-left:2.857500cm; text-indent:-0.760222cm; dom-dir:ltr; margin-bottom:0.0000in; list-style:Bullet List; line-height:1.000000; text-align:left; margin-right:0.0000in; field-font:NULL"><field type="list_label" xid="150"></field>	<c props="lang:en-US; font-size:12pt; font-family:Liberation Serif; font-weight:normal">Bower</c></p>
+<p style="Normal" xid="151" props="margin-top:0.0000in; margin-left:1.1250in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:en-US; font-size:12pt; font-family:Liberation Serif; font-weight:normal">		</c><c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; color:#000000">metode Bower mirip dengan NPM sama-sama menginstall ke dalam OS atau projek aplikasi, hanya saja perbedaannya NPM khusus mengatasi javascript library sedangkan Bower cenderung menangani kelengkapan web aplikasi seperti js, css, png.</c></p>
+<p style="Normal" xid="152" props="margin-top:0.0000in; margin-left:1.1250in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+<p style="Normal" xid="153" props="margin-top:0.0000in; margin-left:0.8125in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; color:#000000">Banyaknya tipe penginstallan yang tesedia dalam materializecss, hanya saja disini skita fokus pada penggunaana source code secara manual dengan menggunakan download secara langsung. ini sangat membantu terutama bagi anda yang baru saja migrasi dari css manual ke framework css. download source codenya melalui web resmi tadi.</c></p>
+<p style="Normal" xid="154" props="margin-top:0.0000in; margin-left:0.8125in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+<p level="1" listid="1004" parentid="0" xid="155" props="margin-top:0.0000in; margin-left:2.063750cm; text-indent:-0.762000cm; dom-dir:ltr; margin-bottom:0.0000in; list-style:Dashed List; line-height:1.000000; text-align:left; margin-right:0.0000in; field-font:NULL"><field type="list_label" xid="156"></field>	<c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; text-transform:none; color:#000000">Selanjutnya setelah berhasil didownload extract archieve, di dalamnya kita akan temukan 3 file sebagai berikut :</c></p>
+<p xid="157" props="margin-top:0.0000in; margin-left:0.8125in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+<p style="Normal" xid="158" props="margin-top:0.0000in; margin-left:0.8125in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><image dataid="5" xid="159" props="height:2.02in; width:5.19in"/></p>
+<p style="Normal" xid="160" props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; color:#000000"><c></c></p>
+<p level="1" listid="1005" parentid="0" xid="161" props="font-family:Liberation Serif; margin-left:2.063750cm; font-size:12pt; text-indent:-0.762000cm; lang:en-US; list-style:Dashed List; color:#000000; font-weight:normal; field-font:NULL"><field type="list_label" xid="162"></field>	<c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; text-transform:none; color:#000000">langkah berikutnya kita bisa memulai membuat file .php di dalam folder tersebut</c></p>
+<p style="Normal" xid="163" props="font-family:Liberation Serif; margin-left:0.8125in; font-size:12pt; text-indent:0in; lang:en-US; color:#000000; font-weight:normal"><c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; text-transform:none; color:#000000">jangan lupa include source code materializecss yang telah kita download sebelumnya.</c></p>
+<p style="Normal" xid="164" props="font-family:Liberation Serif; margin-left:0.8125in; font-size:12pt; text-indent:0in; lang:en-US; color:#000000; font-weight:normal"><c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; text-transform:none; color:#000000">hingga sintaknya sebagai beikut</c></p>
+<p style="Normal" xid="165" props="font-family:Liberation Serif; margin-left:0.8125in; font-size:12pt; text-indent:0in; lang:en-US; color:#000000; font-weight:normal"><c></c></p>
+<table xid="166" props="table-column-leftpos:0.8125in; table-row-heights:/">
+<cell xid="167" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p style="Normal" xid="168" props="font-family:Liberation Serif; margin-top:0pt; right-space:0.02in; margin-left:0pt; shading-pattern:1; widows:2; text-indent:0in; text-align:left; orphans:2; dom-dir:ltr; top-space:0.02in; bgcolor:transparent; margin-right:0pt; margin-bottom:0pt; shading-foreground-color:transparent; line-height:1.000000; left-space:0.02in; font-size:12pt">﻿﻿</p>
+<p style="Plain Text" xid="169" props="font-family:Liberation Serif; margin-top:0pt; right-space:0.02in; margin-left:0pt; shading-pattern:1; widows:2; text-indent:0in; text-align:left; orphans:2; dom-dir:ltr; top-space:0.02in; bgcolor:transparent; margin-right:0.1250in; margin-bottom:0pt; shading-foreground-color:transparent; line-height:1.000000; left-space:0.02in; font-size:12pt"><c props="font-family:Courier">&lt;!DOCTYPE html&gt;<br/>  &lt;html&gt;<br/>    &lt;head&gt;<br/>      &lt;!--Import materialize.css--&gt;<br/>      &lt;link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/&gt;<br/><br/>      &lt;!--Let browser know website is optimized for mobile--&gt;<br/>      &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"/&gt;<br/>    &lt;/head&gt;<br/><br/>    &lt;body&gt;<br/>      &lt;!--Import jQuery before materialize.js--&gt;<br/>      &lt;script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"&gt;&lt;/script&gt;<br/>      &lt;script type="text/javascript" src="js/materialize.min.js"&gt;&lt;/script&gt;<br/>    &lt;/body&gt;<br/>  &lt;/html&gt;<br/>        </c></p>
+<p style="Normal" xid="170" props="font-family:Liberation Serif; margin-top:0pt; right-space:0.02in; margin-left:0pt; shading-pattern:1; widows:2; text-indent:0in; text-align:left; orphans:2; dom-dir:ltr; top-space:0.02in; bgcolor:transparent; margin-right:0pt; margin-bottom:0pt; shading-foreground-color:transparent; line-height:1.000000; left-space:0.02in; font-size:12pt"><c></c></p>
+<p style="Normal" xid="171" props="font-family:Liberation Serif; margin-top:0pt; right-space:0.02in; margin-left:0pt; shading-pattern:1; widows:2; text-indent:0in; text-align:left; orphans:2; dom-dir:ltr; top-space:0.02in; bgcolor:transparent; margin-right:0pt; margin-bottom:0pt; shading-foreground-color:transparent; line-height:1.000000; left-space:0.02in; font-size:12pt"><c props="font-family:Courier">  </c></p>
+<p style="Normal" xid="172" props="font-family:Liberation Serif; font-size:12pt"><c></c></p>
+<p style="Normal" xid="173" props="font-family:Liberation Serif; font-size:12pt"><c></c></p>
 </cell>
 </table>
-<p style="Normal" xid="145" props="font-family:Liberation Serif; margin-left:0.8125in; font-size:12pt; text-indent:0in; lang:en-US; color:#000000; font-weight:normal"><c></c></p>
-<p style="Normal" xid="146" props="font-family:Liberation Serif; margin-left:0.8125in; font-size:12pt; text-indent:0in; lang:en-US; color:#000000; font-weight:normal"><c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; text-transform:none; color:#000000">Sampai tahap ini kita sudah siap untuk menggunakan framework materializecss. </c></p>
-<p style="Normal" xid="147" props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; color:#000000"><c></c></p>
-<p style="Normal" xid="148">2. Tutorial Dasar Materialize CSS </p>
-<p style="Normal" xid="149" props="text-indent:0in; margin-left:0.1866in; margin-right:0in">2. 1 Pengenalan CSS</p>
-<p style="Normal" xid="150" props="text-indent:0in; margin-left:0.1866in; margin-right:0in">2. 2 Penggunaan Cardpanel, Color dan Grid</p>
-<p style="Normal" xid="151" props="text-indent:0in; margin-left:0.1866in; margin-right:0in">2. 3 Penggunaan Grid untuk Responsive Desain, Gambar</p>
-<p style="Normal" xid="152"><c></c></p>
-<p style="Normal" xid="153">3. Tutorial Komponen Materialize CSS</p>
-<p style="Normal" xid="154" props="text-indent:0in; margin-left:0.1866in; margin-right:0in">3. 1 Penggunaan Badges, Button, Card dan Footer</p>
-<p style="Normal" xid="155" props="text-indent:0in; margin-left:0.1866in; margin-right:0in">3. 2 Penggunaan Form, Icon dan Navbar</p>
-<p style="Normal" xid="156"><c></c></p>
-<p style="Normal" xid="157">4. Tutorial Javascript Materialize CSS    </p>
+<p style="Normal" xid="174" props="font-family:Liberation Serif; margin-left:0.8125in; font-size:12pt; text-indent:0in; lang:en-US; color:#000000; font-weight:normal"><c></c></p>
+<p style="Normal" xid="175" props="font-family:Liberation Serif; margin-left:0.8125in; font-size:12pt; text-indent:0in; lang:en-US; color:#000000; font-weight:normal"><c props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; text-transform:none; color:#000000">Sampai tahap ini kita sudah siap untuk menggunakan framework materializecss. </c></p>
+<p style="Normal" xid="176" props="lang:en-US; font-size:12pt; font-weight:normal; font-family:Liberation Serif; color:#000000"><c></c></p>
+<p style="Normal" xid="177">2. Tutorial Dasar Materialize CSS </p>
+<p style="Normal" xid="178" props="text-indent:0in; margin-left:0.1866in; margin-right:0in">2. 1 Pengenalan CSS</p>
+<p style="Normal" xid="179" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c>CSS atau kepanjangan dari cascading style sheet adalah bahasa desain yang digunakan untuk mendesain sebuah tampilan website. struktur dari bahasa css adalah sebagai berikut :</c></p>
+<p style="Normal" xid="8" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="13" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c props="font-weight:bold"></c><c props="font-weight:bold">selektor{ property:value }</c></p>
+<p style="Normal" xid="189" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c props="font-weight:normal">- selektor adalah tag,id maupun class yang akan dipanggil dalam html.(html, body, p) </c></p>
+<p style="Normal" xid="190" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c props="font-weight:normal">- property adalah bagian yang diseleksi dari selktor dan akan dilakukan desain pada </c></p>
+<p style="Normal" xid="193" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c props="font-weight:normal">   bagian tersebut.</c><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">(background, color, float)</c></p>
+<p style="Normal" xid="191" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c props="font-weight:normal">- value adalah nilai dari property yang diinginkan. (</c><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">blue, left, none, block</c><c props="font-weight:normal">)</c></p>
+<p style="Normal" xid="192" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="11" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c props="font-weight:normal">selektor dalam css secara umum dibagi kedalam 3 tipe</c></p>
+<p style="Normal" xid="15" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c props="font-weight:normal">- tag html 	: adalah tag seperti p, html, body. dalam pemanggilan dalam bahasa css tidak disertai apapun. contoh </c></p>
+<p style="Normal" xid="18" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="19" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c props="font-weight:bold"></c><c props="font-weight:bold">p{background:blue}</c></p>
+<p style="Normal" xid="17" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="16" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c props="font-weight:normal">- selektor id	: selektor id adalah selektor dalam bahasa css yang digunakan untuk memanggil id dalam bahasa html. maka penulisannya menggunakan #(pagar)</c></p>
+<p style="Normal" xid="20" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="21" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c props="font-weight:bold">#id{background:blue}</c></p>
+<p style="Normal" xid="22" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c props="font-weight:bold"></c></p>
+<p style="Normal" xid="23" props="text-indent:0in; margin-left:0.5000in; margin-right:0in"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">- selektor class: selektor class adalah selektor dalam bahasa css yang digunakan untuk memanggil class dalam bahasa html. maka penulisannya menggunakan .(titik)</c></p>
+<p style="Normal" xid="24" props="margin-top:0.0000in; margin-left:0.5000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c></p>
+<p style="Normal" xid="25" props="margin-top:0.0000in; margin-left:0.5000in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:bold; font-style:normal; text-decoration:none">.class{background:blue}</c></p>
+<p style="Normal" xid="14" props="font-family:Liberation Serif; font-style:normal; margin-left:0.5000in; lang:en-US; text-decoration:none; text-indent:0in; text-position:normal; font-weight:bold; color:000000; margin-right:0in; font-size:12pt"><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="188" props="font-family:Liberation Serif; font-style:normal; margin-left:0.5000in; lang:en-US; text-decoration:none; text-indent:0in; text-position:normal; font-weight:bold; color:000000; margin-right:0in; font-size:12pt"><c props="font-weight:normal">Dikenal 3 cara menyisipkan css ke dalam sebuah projek aplikasi</c></p>
+<p style="Normal" xid="194" props="font-family:Liberation Serif; font-style:normal; margin-left:0.5000in; lang:en-US; text-decoration:none; text-indent:0in; text-position:normal; font-weight:bold; color:000000; margin-right:0in; font-size:12pt"><c props="font-weight:normal">- External Style Sheet</c></p>
+<p style="Normal" xid="196" props="font-family:Liberation Serif; font-style:normal; margin-left:0.6250in; lang:en-US; text-indent:0in; color:000000; font-weight:bold; text-decoration:none; font-size:12pt; margin-right:0in; text-position:normal"><c props="font-weight:normal">	 merupakan penggunaan bahasa css dalam file sendiri lalu memanggilnya di tag head  halaman utama kita </c></p>
+<p style="Normal" xid="197" props="font-family:Liberation Serif; font-style:normal; margin-left:0.6250in; lang:en-US; text-indent:0in; color:000000; font-weight:bold; text-decoration:none; font-size:12pt; margin-right:0in; text-position:normal"><c props="font-weight:normal"></c></p>
+<p style="Normal" xid="198" props="font-family:Liberation Serif; font-style:normal; margin-left:0.6250in; lang:en-US; text-indent:0in; color:000000; font-weight:bold; text-decoration:none; font-size:12pt; margin-right:0in; text-position:normal"><c>﻿</c></p>
+<p style="Normal" xid="199" props="font-family:Liberation Serif; font-style:normal; margin-left:0.6250in; lang:en-US; text-indent:0in; color:000000; font-weight:bold; text-decoration:none; font-size:12pt; margin-right:0in; text-position:normal"><c props="font-family:FreeMono">&lt;head&gt;<br/> &lt;link rel="stylesheet" type="text/css" href="mystyle.css"&gt;<br/> &lt;/head&gt;</c></p>
+<p style="Normal" xid="200" props="font-family:Liberation Serif; font-style:normal; margin-left:0.6250in; lang:en-US; text-indent:0in; color:000000; font-weight:bold; text-decoration:none; font-size:12pt; margin-right:0in; text-position:normal"><c></c></p>
+<p style="Normal" xid="210" props="font-family:Liberation Serif; font-style:normal; margin-left:0.6250in; lang:en-US; text-indent:0in; color:000000; font-weight:bold; text-decoration:none; font-size:12pt; margin-right:0in; text-position:normal"><c></c></p>
+<p style="Normal" xid="202" props="font-family:Liberation Serif; font-style:normal; margin-left:0.6250in; lang:en-US; text-indent:0in; color:000000; font-weight:bold; text-decoration:none; font-size:12pt; margin-right:0in; text-position:normal"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">- Internal Style Sheet</c></p>
+<p style="Normal" xid="203" props="margin-top:0.0000in; margin-left:0.6250in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">	 merupakan penggunaan bahasa css dalam satu file dengan file utama html. dituliskan di head halaman utama kita.</c></p>
+<p style="Normal" xid="205" props="margin-top:0.0000in; margin-left:0.6250in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c><c>﻿</c></p>
+<p style="Normal" xid="207" props="margin-top:0.0000in; margin-left:0.6250in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:FreeMono; font-weight:bold">&lt;head&gt;<br/>&lt;style&gt;<br/>body {<br/>    background-color: linen;<br/>}<br/><br/> h1 {<br/>    color: maroon;<br/>    margin-left: 40px;<br/>} <br/>&lt;/style&gt;<br/>&lt;/head&gt;</c></p>
+<p style="Normal" xid="208" props="margin-top:0.0000in; margin-left:0.6250in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+<p style="Normal" xid="211" props="margin-top:0.0000in; margin-left:0.6250in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Liberation Serif; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">- Inline Style Sheet</c></p>
+<p style="Normal" xid="212" props="margin-top:0.0000in; margin-left:0.6250in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">	 merupakan penggunaan bahasa css secara langsung ke dalam taq html tanpa melalui file eksternal atau internal.</c></p>
+<p style="Normal" xid="213" props="margin-top:0.0000in; margin-left:0.6250in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="214" props="margin-top:0.0000in; margin-left:0.6250in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>﻿</c></p>
+<p style="Normal" xid="215" props="margin-top:0.0000in; margin-left:0.6250in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c props="font-family:FreeMono; font-weight:bold">&lt;h1 style="color:blue;margin-left:30px;"&gt;This is a heading.&lt;/h1&gt;</c></p>
+<p style="Normal" xid="216" props="margin-top:0.0000in; margin-left:0.6250in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c></c></p>
+<p style="Normal" xid="217" props="margin-top:0.0000in; margin-left:0.6250in; text-indent:0.0000in; dom-dir:ltr; margin-bottom:0.0000in; line-height:1.000000; text-align:left; margin-right:0.0000in"><c>Dalam hal ini karena kita menggunakan framework secara praktis kita menggunakan cara </c></p>
+<p style="Normal" xid="204" props="font-family:Liberation Serif; dom-dir:ltr; font-style:normal; margin-left:0.6250in; lang:en-US; text-position:normal; font-weight:normal; text-align:left; line-height:1.000000; margin-top:0.0000in; color:000000; margin-right:0.0000in; text-decoration:none; margin-bottom:0.0000in; text-indent:0.0000in; font-size:12pt"><c props="font-family:Liberation Serif; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p style="Normal" xid="180" props="font-family:Liberation Serif; font-style:normal; margin-left:0.1866in; lang:en-US; text-decoration:none; text-indent:0in; text-position:normal; font-weight:normal; color:000000; margin-right:0in; font-size:12pt">2. 2 Penggunaan Cardpanel, Color dan Grid</p>
+<p style="Normal" xid="181" props="text-indent:0in; margin-left:0.1866in; margin-right:0in">2. 3 Penggunaan Grid untuk Responsive Desain, Gambar</p>
+<p style="Normal" xid="182"><c></c></p>
+<p style="Normal" xid="183">3. Tutorial Komponen Materialize CSS</p>
+<p style="Normal" xid="184" props="text-indent:0in; margin-left:0.1866in; margin-right:0in">3. 1 Penggunaan Badges, Button, Card dan Footer</p>
+<p style="Normal" xid="185" props="text-indent:0in; margin-left:0.1866in; margin-right:0in">3. 2 Penggunaan Form, Icon dan Navbar</p>
+<p style="Normal" xid="186"><c></c></p>
+<p style="Normal" xid="187">4. Tutorial Javascript Materialize CSS    </p>
 </section>
 <data>
 <d name="0" mime-type="image/png" base64="yes">
@@ -23776,6 +23817,1256 @@ vO4UPfrqX6f7Xq1m2qP1bneY1vdlpkJW50eN3t5rDhLe1O6B/wPN6gZpLubw3wAAAABJRU5E
 rkJggg==
 </d>
 <d name="4" mime-type="image/png" base64="yes">
+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
+os6PYOQXTiacyYyf3mfF2uvZIR4kIoUpKbTzOAtNc3W4Zh2vJSJp6SxRjrF73v5h8J2P9Gtm
+10OF2N/Uso8ds4loxPjWj02/itMuz+6sXZcF2Ie2mZzY1Hli5+8libOrBCJr5yetx6PdbF1p
+i9dCer/8u7kL6OYWmuq3Tbcn6cFas73mri3a5n1WMNZCOWkWEZEs9kYvnWaN2PaJwzaRMH6C
+0P5rOsuV0SJd3Wc2avbewzbJ0pyOJ8sKKqU8omuHzCY7k804ia47zDPB9VePq4XEj7zufWmX
+baZVu8FQ7DHMtn36qE1EpRMEuXuVnnpfl2ZtZnozycp+ibFwm9fMjdttInHRIinKZQ8mTFwu
+u4hOrtfrrPA5FZFlfEPuqR4y+Q2hh1cEksrzUWMSkhJkW3RHm+ypsq1YqHiILm/Xr3c5srPq
+9a2XiZzy4tEpF3+8OwhtbhORGW+P3rIbYW3DvtmwCoGILh+19Pi7E595op5IFEcXhL+yp0RU
+iIxaqzmlSyeMho8WiKj6lB1nAhg7YDdaRC4xV+q620pi58fjHfHYlPKNUTzjq2NZW97Rm4lG
+35PzzYcck4tZhsZ+84bzNifyDBNU1t0qTr88M7p2zce0kxa5JqvlHQ8opSJlTiFRjf7J9Yy1
+rvTLPXYv2wflH1fxIvc3ns79m87/5Tx2gyBmogxT/bZp9iQ9Wmsp9Ge90EunXyPXjxpeoqLJ
+UruLq2zkLEkme+8RyyJ+ZZ/hJzZ+VrvBYkyomCIS2UeOtbsqnolmnGRpO8qdX/2CWkz81Dve
+57ZZRs9UfdNlyyJyFQtO1r1KT7WvS7c2M7yZZF+/1BKgWsdL1OwMXSDKna2O7XILulAgr5zA
+KKR/fKT18jgTWOY35D48humNFYEEpFjBCfEJsjPMo032QOG6pCVTGJG55VC04Vi2fXCbef8D
+0uRFsvuY7uvD2UgFVugiIvtawkloLV7jJRrChoSf5cyceYyIgo08taMLQSh0ExFNejz/mSRe
+rmb5E0O6sTq+o/7/fN7+7GrHmDnOL81xGvXmsRPm8RPGkRNmXSj9b2T67RCR0yE4BPJa3ani
+bsng2nGfseUkHz9RXljBjh9r3VpYySylkOjyjsglmuxsXX1U/nE6J7VQqiiLEjqcBYz1QRmm
+25P0zvbtFCfNVmZOkipGiENzmNDfOhn9qnFKU2cNl8udWkPLfc6KOHsco0bt4HUiIr1aPxpU
+50xQhstm+JGQDnH6CKKAebCW934zloaqn7vD0TJ1gK+pJwZlRL5mkIeI3E7BIVCT1a1KT62v
+S7M2M72ZZF2/1DmM2g3Gx8f45ycqKycHj+3pcBw17AbHKKKmPdqpYPsV6q0NuU/3MlnRIw3i
+PI+8BNmf7VEImeQZp05SiJ/VDjVFf0HTEe20LVWOVyfl6Lua+7DmSRKJiPSEw7841y0iYq2j
+uUSJiMjUUnw4CguPBwtctxr0RC82LJ+V5ZtOt1an/lDw2WPa6JnK3JnK1AnStPnStPkOIl5z
+RFu3Vtt1Po27Romb3CQigcRuV3E3ZWztOD+xzdQnypPmSa7jRqClwUlC1SyByNp6uP1VxOxr
+XX1X/rEWc/HtpqfezqItNM2epOf3iqMWuR67WykSiIgCddaZY7YvyI3I+N7iqUq5mvWdjGbu
+PU+zxkvTS9m+k5yI5GHKJDc1b408iE6zdp/kc6bL04vY+WpOREqxXCGTfkKv1nq/GbMp9zuJ
+6Po5q6BCnPmQ+/Rl78bantkMwv0k6zBOO91KT6GvS7c2M7yZZF2/1HW59rENRmCiMm6ZMmRf
+qG2coyotmS8QWZu3mnqfbMh9tZfJnh5pEOd5anctVBBwOgWyQktTxJiRHinayYtliYjKnE99
+xxlrl5AjEJG0ZIqwZ5tt99VX5WTaRERKwl01Y4pIRJGdB1HLLcuSmnLzsWwisre+2PxO9UCo
+7W6uDjftM7tDZ3aHSGD5w6UJE+VZc5RJkx0PT3Ys3ez7xdtGc4qNg0lMIiKbrG5XcSYOmjOz
+dsEz2uGQPGuCOsZpHApQSyypKiB+TjvUmN2tq0/Lv0+adMqLS7cn6dEwX35zzjduEplt7Xk3
++OEOo6bT/HZMmP91pXxk1tcI5+f2mTReqpwsyCctg1jxVDmP+I59raOs+fk9pjFdnj5ZeK/a
+sogKxks5RKf2W8E+asbV67w/fd8e93Du4zOl+z/vPP9s8LzWAzUc7ifbHijYzUpPvq9LrzYz
+vJn0h34peDa0vVFZWaouKNHeiTzBxF3pqMohfk7bWdtnG3If7GWyrEcaJIfy8fM8shMgzw/0
+ks2XF48mIiJZKCyM8d8QoeV+xfIFypA+nL/E5nV+IhKKchK9UmTFHiLi9eEZj8OTNjnymJji
+EptCRMSGuAZEsyGX8JkAACAASURBVMvg6ti88bKxY23gFz9s+tffapdtGrHY86XlYqqD9SS3
+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
+brrpqquuAoB777337/7u706cODE2Nvbrv/7rl19+OQB85Stf+cpXvrKwsLBu3bq3v/3t559/
+PgA888wzH/vYx/bv3z80NPQbv/Ebr371q8PTEARBEAQvSp4XAQXaegafRISdrowtAwasNbqn
+pmhqmg8dltVr2HFt2bBDof6GWE+1RESQxROyczpKAL0HQUES4jar6nT5ve/Gs7OuVVJexqYE
+W/HAiBMQFAawxnkwUpYulpS5igmdnzx0zC3M8bI+AQBG5ysRVFpbjRFGnX++Oz17tR5fkTl0
+McfMFGXm9JHJL95ujGt7cacn9SiO9A1YUzrt2PuBrHbu+JqD01OnpNO1fvbOe5c98PiqzduG
+t17Yd8F2WjbaN76ysXrViuqCYn4xnji2OHV6fM3w9MsvObBr30DfYFnkpbh2p7v5kgvf8eE/
+JKQUNAiih6WFjDN1Br0/E2KsBWJcc+EGQAEkAFl33ipfWZXEgGvAezYGBB0BMKEg5G32PjyH
+QRAEIc//uDZt2rRixYqHHnro4x//+LXXXnv11VdfffXVAHD33XcDwM6dO6+99lrn3A9+8INL
+Lrnk0ksvffe7301EN954465du2655ZY0Tc8///wHH3zw4MGDi4uL3vuHH374ne985/79+7Ms
+27Rp08zMzHvf+956vX7jjTf+4Ac/+MhHPnLbbbcZY/74j/94/fr1v/Vbv/XZz372j/7oj77w
+hS8cOXLkE5/4xI4dO175yld+8pOf/NCHPnT77bc759797ndba2+88cbHHnvsT//0T1etWnX2
+2WeHByIIgiAIfvp5vhdEAVEERVghekaBLKvLto0WHB6dUho60zOwuADMUVfi5UNVp0PL+rnb
+UcKQxtYarWu+W3FRQn+Wzc6W08+o73wP6r7RSApvZyPlsa9BYJ2z3jnPzJSQGulrto0pLVt2
+AHjy2PG5idNjK5bbqiABpMx5y4BorNl3IBofktFhoEy4UiICIkpN/+BHi0eOGyOtPI81HT51
+kigaavZ5U5FSlTNZLds0unKZLWaqztTCfKt0jz74aPOxvY3P3x6PDfeNjaajgzmKb/Sjh4mj
+E1MnT89UXa+o1e0alMWy7B9b/v4/+aOBwSFXlFop6TX2743fQ1ya0SeAgL0O/8wCRcW92oSl
+6gT0eYmAiAiCXpgiRTHxsdPlgSPpYBaewyAIgpDnf1xZlv3FX/zFbbfd9s1vfvOrX/3q2rVr
+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
+h+c21goAghACkhMnFceNN9x0/JYbJsPVK6+5srNxYfvWzQgQQqjqqhpVHpBDSiLsLAvXVRVi
+ajnjrAkpZhlG4mjEZURk0DohQwYFsWHIe50YYwihcG3DqTENOgfRos2yAl3E0AyiBTaJKZEp
+62kStmRLEj456uBsRHpBQGa2OXQybEivQ6WU0jyvlFJKKfXVqbCYO3piThJMvLRyhrVY+5yG
+19l6cGASCXJmJDV85a7zu/YCZ9iEcb3vICZAFhsi5QYRkw9S12FaYYzWe+KUESIKRckRTBUp
+RfFNQrQOkQgI0VCONg6nIYSiyIVD8g3UE2qirZKpElXJjEPRpLaPczFQbMamkXolnjjALGCQ
+iOBsrVonIMjCNoOlAzUEvQ6VUkrzvFJKKaXUVyebHB183bfM+VAboDiLms9HfAUESAYjeZNA
+ML/EeyucUmQSclaSARRETMIOEUSYEwnO5sYHBBaDIEFiRgZEkAiBEguj4OyVhJREAAgxCZOx
+wIklCQoIMAuBTSxoWFiYJTGQCHzxj83v/4UTTJz47E5MJwCABHke/VAnxFNKKc3zSimllFJf
+Hf+DPw4AAwAAaF4Yh/S3H4Z/7t4oAQDA8Gv9eTXMK6XUi5IOplJKKaWUUkoppTTPK6WUUkop
+pZRSSvO8UkoppZRSSimlNM8rpZRSSimllFKa55VSSimllFJKKaV5XimllFJKKaWUUprnlVJK
+KaWUUkopzfNKKaWUUkoppZTSPK+UUkoppZRSSinN80oppZRSSimllOZ5pZRSSqkXgtZLu+/+
+uXKb/YpPWLy5964fy+eey7savPKH5r7vItSTr5RS6gXM6ilQSiml1PMrv7D9iz+c1XcM/9mH
+Uzi11Zk3/kzvltK/95cme5ozvKp7Vee2b0z/5t3V8mkbqWu/7ltbN7/UdAmGB/3HPzS980k5
+45ueevnB8Pc6aIE6PEef35nrbrLLdzdfHD9rs+mYy67Or7vW+v8++s97BAAAcfurWt/1Ddnm
+EiaH/f/7geldR0TOuFGvKqWUUprnlVJKKXV2LFxbXPCxyeP12q/ljuIV8wD1V3z+ZE/1u0M5
+Fk+7W8ns63+ke+2x6X/6Vf9UhTuua731Bzvh10aP/60v/3sSGfvn5oOjM6+4tfjiw8/K89n2
+1s/8cFbvjXYDLZ3sA3DnlN/3OnPvv+v/ywO485s63/+/FfveVZ3YcoaNh6NeUEoppTTPK6WU
+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
+</d>
+<d name="5" mime-type="image/png" base64="yes">
 iVBORw0KGgoAAAANSUhEUgAAAfIAAADCCAIAAAA9/teeAAAAA3NCSVQICAjb4U/gAAAAEHRF
 WHRTb2Z0d2FyZQBTaHV0dGVyY4LQCQAAFwBJREFUeNrt3XlgE2X+x/FnkjRp09D0gG4PCrS0
 iBUqVIq0eHRBWC7lELlEUEQWORUVQVzwRIQFwQMBuRQBoQsFXMXrxyKKHAooKCD3bWlLW3qm
